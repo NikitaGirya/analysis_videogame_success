@@ -1,3 +1,10 @@
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_videogame_success/blob/main/Girya_analysis_videogame_success.ipynb)**
+
+---
+
 # Выявление закономерностей успеха видеоигр
 
 ---
@@ -44,6 +51,11 @@
 
 
 6. Формирование общего вывода исследования
+
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/analysis_videogame_success/blob/main/Girya_analysis_videogame_success.ipynb)**
 
 ---
 
