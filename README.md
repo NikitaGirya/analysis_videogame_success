@@ -7,6 +7,8 @@
 
 # Выявление закономерностей успеха видеоигр
 
+`pandas`  `numpy`  `scipy`  `re`  `matplotlib`  `seaborn`
+
 ---
 
 <p align="center">
